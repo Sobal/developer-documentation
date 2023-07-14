@@ -24,7 +24,7 @@ Deployment Task Viewer: [https://github.com/Sobal/balancer-deployments/tree/soba
 | CircuitBreakerLib                              | 0x4d012B5C30A39cfbf08a5dbe9c5c97816C60A2e5 | 20230411-managed-pool-v2                   |
 | ComposableStablePoolFactory                    | 0x2297E369aa665f1cE2eCB9eBe4Ec0E6D9f02f72D | 20230711-composable-stable-pool-v5         |
 | DoubleEntrypointFixRelayer                     | 0xA32DFb06D690187d7a4701E76a44A3889B65b5C8 | 20220513-double-entrypoint-fix-relayer     |
-| ERC4626LinearPoolFactory                       | 0x2818b8F2752F0AAE3938c64943aEA2a1a9258246 |                                            |
+| ERC4626LinearPoolFactory                       | 0x2818b8F2752F0AAE3938c64943aEA2a1a9258246 | 20230409-erc4626-linear-pool-v4            |
 | ExternalWeightedMath                           | 0x1A9Ba1B5e18D8d1d7989548E880B6705452141a5 | 20230411-managed-pool-v2                   |
 | ManagedPoolAddRemoveTokenLib                   | 0xf2f1d073046CDB9a0A6a563cD213F5BcB3d89966 | 20230411-managed-pool-v2                   |
 | ManagedPoolAmmLib                              | 0xC2d9b04b823F365D4c8388d2B22c069aD2c0fC06 | 20230411-managed-pool-v2                   |

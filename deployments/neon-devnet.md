@@ -30,7 +30,7 @@ Deployment Task Viewer: [https://github.com/Sobal/balancer-deployments/tree/soba
 | MockComposableStablePool                       | 0x967058FEff90a380b8Fd58FB0a98f8f775176A36 | 20230206-composable-stable-pool-v3         |
 | MockERC4626LinearPool                          | TBA                                        |                                            |
 | MockERC4626Token                               | 0xC6c0d2200fe3FBcC6c00f5A4Eabdf8CF755cf2Eb | 20230409-erc4626-linear-pool-v4            |
-| MockManagedPool                                | 0x887A2Ad42819Be255254bF8ea614d22a3Dfa04B5 |                                            |
+| MockManagedPool                                | 0x887A2Ad42819Be255254bF8ea614d22a3Dfa04B5 | 20230411-managed-pool-v2                   |
 | MockStaticAToken                               | TBA                                        |                                            |
 | MockWeightedPool                               | TBA                                        |                                            |
 | MultiCall2                                     | 0xdbB145bB8Eba9f1aE22c192f31279dB4b3C1ACc6 |                                            |

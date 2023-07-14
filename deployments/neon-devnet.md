@@ -6,6 +6,8 @@ RPC: [https://devnet.neonevm.org](https://devnet.neonevm.org)
 
 Explorer Link: [https://devnet.neonscan.org](https://devnet.neonscan.org)
 
+Subgraph: [https://ch2-graph.neontest.xyz/subgraphs/name/sobal/sobal-test](https://ch2-graph.neontest.xyz/subgraphs/name/sobal/sobal-test)
+
 Deployment Task Viewer: [https://github.com/Sobal/balancer-deployments/tree/sobal/devnet-deployment/tasks](https://github.com/Sobal/balancer-deployments/tree/sobal/devnet-deployment/tasks)
 
 | Contract                                       | Deployment Address                         | Task                                       |

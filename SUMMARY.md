@@ -5,3 +5,9 @@
 ## Deployments
 
 * [Neon Devnet](deployments/neon-devnet.md)
+
+## Math
+
+* [Weighted Math](math/weighted-math.md)
+* [Stable Math](math/stable-math.md)
+* [Linear Math](math/linear-math.md)

@@ -5,6 +5,7 @@
 ## Deployments
 
 * [Neon Devnet](deployments/neon-devnet.md)
+* [Neon Mainnet](deployments/neon-mainnet.md)
 
 ## Math
 

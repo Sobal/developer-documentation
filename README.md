@@ -1,3 +1,9 @@
 # Welcome
 
-We've got a little something in the works for developers too 🤫
+{% hint style="warning" %}
+This documentation is being compiled and will be updated over the course of the next few weeks.
+
+Last updated: 23rd July 2023
+{% endhint %}
+
+Please reach out to us if you require any specific information: [https://discord.sobal.fi](https://discord.sobal.fi)

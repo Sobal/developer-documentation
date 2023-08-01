@@ -6,6 +6,8 @@
 
 * [Neon Devnet](deployments/neon-devnet.md)
 * [Neon Mainnet](deployments/neon-mainnet.md)
+* [Base Goerli](deployments/base-goerli.md)
+* [Base](deployments/base.md)
 
 ## Math
 

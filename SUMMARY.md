@@ -4,10 +4,10 @@
 
 ## Deployments
 
-* [Neon Devnet](deployments/neon-devnet.md)
-* [Neon Mainnet](deployments/neon-mainnet.md)
-* [Base Goerli](deployments/base-goerli.md)
+* [Neon](deployments/neon.md)
 * [Base](deployments/base.md)
+* [Neon Devnet](deployments/neon-devnet.md)
+* [Base Goerli](deployments/base-goerli.md)
 
 ## Math
 

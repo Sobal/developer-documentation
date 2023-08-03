@@ -14,3 +14,8 @@
 * [Weighted Math](math/weighted-math.md)
 * [Stable Math](math/stable-math.md)
 * [Linear Math](math/linear-math.md)
+
+## Resources
+
+* [API Endpoint](resources/api-endpoint.md)
+* [Smart Order Router Queries](resources/smart-order-router-queries.md)

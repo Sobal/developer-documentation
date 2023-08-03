@@ -15,12 +15,11 @@ Supported chain Ids:&#x20;
 
 `{id}` is a specific pool id within the chain.
 
-* `/graphql` - GraphQL endpoint for retrieving pools with filters / queries. Forwards requests to Appsync. See 'GraphQL Requests' section for more info.
-* `/pools/{chainId}/update` - Runs the worker lambda that fetches the latest pool information from the graph and saves it in the database.
+* `/graphql` - GraphQL endpoint for retrieving pools with filters / queries. Forwards requests to Appsync. [See our example GraphQL queries on Github](https://github.com/Sobal/balancer-api/blob/master/scripts/graphql-query.ts).
 * `/pools/{chainId}` - Returns a JSON array of all Balancer pools of that chain
 * `/pools/{chainId}/{id}` - Returns JSON information about a pool of a specific `id`.
-* `/sor/{chainId}` - Run a SOR (Smart Order Router) query against the balancer pools and returns [SerializedSwapInfo](https://github.com/Sobal/balancer-api/blob/master/src/modules/sor/types.ts).
-* `/order/{chainId}` - Run a SOR (Smart Order Router) query against the balancer pools and returns a [SorOrderResponse](https://github.com/Sobal/balancer-api/blob/master/src/modules/sor/types.ts).
+* `/sor/{chainId}` - Run a [SOR (Smart Order Router) query](smart-order-router-queries.md) against the balancer pools and returns [SerializedSwapInfo](https://github.com/Sobal/balancer-api/blob/master/src/modules/sor/types.ts).
+* `/order/{chainId}` - Run a [SOR (Smart Order Router) query](smart-order-router-queries.md) against the balancer pools and returns a [SorOrderResponse](https://github.com/Sobal/balancer-api/blob/master/src/modules/sor/types.ts).
 * `/tokens/{chainId}` - Returns a JSON array of all known tokens of that chain
 
 

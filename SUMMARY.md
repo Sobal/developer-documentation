@@ -19,3 +19,4 @@
 
 * [API Endpoint](resources/api-endpoint.md)
 * [Smart Order Router Queries](resources/smart-order-router-queries.md)
+* [Blocks Subgraph](resources/blocks-subgraph.md)

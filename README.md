@@ -1,7 +1,7 @@
 # Welcome
 
 {% hint style="warning" %}
-This documentation is being compiled and will be updated over the course of the next few weeks.
+This documentation is being compiled and will be updated over time.
 
 Last updated: 14th September 2023
 {% endhint %}

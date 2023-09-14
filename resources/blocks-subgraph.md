@@ -10,7 +10,50 @@ Source code: [https://github.com/Sobal/network-blocks](https://github.com/Sobal/
 
 ### Subgraphs Listing
 
-| Network (ChainId) | Subgraph URL                                                                                                                                                 | Block No. Start | Maintainer |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- | ---------- |
-| Neon (245022934)  | [https://neon-subgraph.sobal.fi/sobal-neon-blocks](https://neon-subgraph.sobal.fi/sobal-neon-blocks)                                                         | 209880000       | Sobal      |
-| Base (8453)       | [https://api.studio.thegraph.com/query/50526/sobal-base-blocks/version/latest](https://api.studio.thegraph.com/query/50526/sobal-base-blocks/version/latest) | 0               | Sobal      |
+<table><thead><tr><th width="154">Network</th><th width="449">Subgraph URL</th><th width="159">Start Block #</th><th>Maintainer</th></tr></thead><tbody><tr><td><p>Neon</p><p>#245022934</p></td><td><a href="https://neon-subgraph.sobal.fi/sobal-neon-blocks">https://neon-subgraph.sobal.fi/sobal-neon-blocks</a></td><td>209880000</td><td>Sobal</td></tr><tr><td><p>Base</p><p>#8453</p></td><td><a href="https://api.studio.thegraph.com/query/50526/sobal-base-blocks/version/latest">https://api.studio.thegraph.com/query/50526/sobal-base-blocks/version/latest</a></td><td>0</td><td>Sobal</td></tr></tbody></table>
+
+### Example Queries
+
+Get comprehensive data on the latest blocks indexed
+
+```
+{
+  blocks(orderDirection: desc, orderBy: number) {
+    id
+    number
+    difficulty
+    gasLimit
+    gasUsed
+    parentHash
+    receiptsRoot
+    size
+    stateRoot
+    timestamp
+    totalDifficulty
+    transactionsRoot
+    unclesHash
+  }
+}
+```
+
+Query data from a specific block, in this example block number `209880000`
+
+```
+{
+  block(id: "0xcb259d795bf2a2b9f989c93dd5bf07c9a17c265baed269512955db3bc980bf3d") {
+    author
+    difficulty
+    gasLimit
+    gasUsed
+    number
+    parentHash
+    receiptsRoot
+    size
+    stateRoot
+    timestamp
+    unclesHash
+    transactionsRoot
+    totalDifficulty
+  }
+}
+```

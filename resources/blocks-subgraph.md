@@ -10,7 +10,10 @@ Source code: [https://github.com/Sobal/network-blocks](https://github.com/Sobal/
 
 ### Subgraphs Listing
 
-<table><thead><tr><th width="154">Network</th><th width="449">Subgraph URL</th><th width="159">Start Block #</th><th>Maintainer</th></tr></thead><tbody><tr><td><p>Neon</p><p>#245022934</p></td><td><a href="https://neon-subgraph.sobal.fi/sobal-neon-blocks">https://neon-subgraph.sobal.fi/sobal-neon-blocks</a></td><td>209880000</td><td>Sobal</td></tr><tr><td><p>Base</p><p>#8453</p></td><td><a href="https://api.studio.thegraph.com/query/50526/sobal-base-blocks/version/latest">https://api.studio.thegraph.com/query/50526/sobal-base-blocks/version/latest</a></td><td>0</td><td>Sobal</td></tr></tbody></table>
+| Network                      | Subgraph URL                                                                                                                                                 | Start Block # | Maintainer |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------- | ---------- |
+| <p>Neon</p><p>#245022934</p> | [https://neon-subgraph.sobal.fi/sobal-neon-blocks](https://neon-subgraph.sobal.fi/sobal-neon-blocks)                                                         | 209880000     | Sobal      |
+| <p>Base</p><p>#8453</p>      | [https://api.studio.thegraph.com/query/50526/sobal-base-blocks/version/latest](https://api.studio.thegraph.com/query/50526/sobal-base-blocks/version/latest) | 0             | Sobal      |
 
 ### Example Queries
 

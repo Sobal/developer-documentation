@@ -12,7 +12,7 @@ Source code: [https://github.com/Sobal/network-blocks](https://github.com/Sobal/
 
 | Network                      | Subgraph URL                                                                                                                                                 | Start Block # | Maintainer |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------- | ---------- |
-| <p>Neon</p><p>#245022934</p> | [https://neon-subgraph.sobal.fi/sobal-neon-blocks](https://neon-subgraph.sobal.fi/sobal-neon-blocks)                                                         | 218300000     | Sobal      |
+| <p>Neon</p><p>#245022934</p> | [https://neon-subgraph.sobal.fi/sobal-neon-blocks](https://neon-subgraph.sobal.fi/sobal-neon-blocks)                                                         | 209880000     | Sobal      |
 | <p>Base</p><p>#8453</p>      | [https://api.studio.thegraph.com/query/50526/sobal-base-blocks/version/latest](https://api.studio.thegraph.com/query/50526/sobal-base-blocks/version/latest) | 0             | Sobal      |
 
 ### Example Queries
